@@ -1,3 +1,7 @@
 /project_venv
+<<<<<<< HEAD
+/UKHousing/Datasets/price_paid_records.csv
+=======
 /UKHousing/price_paid_records.csv
 /venv
+>>>>>>> f1dd532694e8875929014b3e4d1995ce4b4831dd

@@ -654,3 +654,11 @@
 2024-11-27 17:34:13,397:WARNING:C:\Users\woutp\AppData\Local\Temp\ipykernel_6988\3940465301.py:23: RuntimeWarning: invalid value encountered in cast
   plain_integers = predictions.astype(int)
 
+2024-11-28 15:50:23,114:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-28 15:53:22,258:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-28 15:57:03,894:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-28 15:59:27,353:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
