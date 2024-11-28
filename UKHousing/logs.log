@@ -631,3 +631,26 @@
 2024-11-25 16:33:32,437:INFO:Set up train/test split.
 2024-11-25 18:06:33,220:WARNING:
 'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-27 09:39:46,813:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-27 11:22:17,211:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-27 12:35:40,834:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-27 13:11:15,210:WARNING:c:\Users\woutp\Documents\3AI\Cloud AI\Project\CloudAI\project_venv\lib\site-packages\xgboost\core.py:158: UserWarning: [13:11:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:52: Empty dataset at worker: 0
+  warnings.warn(smsg, UserWarning)
+
+2024-11-27 16:14:02,073:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2024-11-27 16:58:06,117:WARNING:C:\Users\woutp\AppData\Local\Temp\ipykernel_6988\3902914400.py:23: RuntimeWarning: invalid value encountered in cast
+  plain_integers = predictions.astype(int)
+
+2024-11-27 17:33:19,309:WARNING:C:\Users\woutp\AppData\Local\Temp\ipykernel_6988\3940465301.py:23: RuntimeWarning: invalid value encountered in cast
+  plain_integers = predictions.astype(int)
+
+2024-11-27 17:33:54,675:WARNING:C:\Users\woutp\AppData\Local\Temp\ipykernel_6988\2143002079.py:23: RuntimeWarning: invalid value encountered in cast
+  plain_integers = predictions.astype(int).values
+
+2024-11-27 17:34:13,397:WARNING:C:\Users\woutp\AppData\Local\Temp\ipykernel_6988\3940465301.py:23: RuntimeWarning: invalid value encountered in cast
+  plain_integers = predictions.astype(int)
+
